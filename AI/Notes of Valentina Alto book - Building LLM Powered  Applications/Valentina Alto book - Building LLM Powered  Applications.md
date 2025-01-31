@@ -80,7 +80,7 @@ We can pass the vectorized input to a multi-layered neural network. It has three
 - Output layer
 Backpropagation is an algorithm used in deep learning to train neural networks. It involves two phases: the forward pass, where data is passed through the network to compute the output, and the backward pass, where errors are propagated backward to update the net work’s parameters and improve its performance.
 Posterior probability (P(A|B)): Using Bayes’ theorem, we can calculate the posterior probability for each candidate word based on the prior probability and the likelihood:
-![[Pasted image 20250126141930.png]]
+![alt](Pasted image 20250126141930.png)
 The following figure illustrates how it translates into the architectural framework of a neural network:
 ![[Pasted image 20250126142111.png]]
 Softmax in a mathematical function that converts a vector of real numbers into a probability distribution:
