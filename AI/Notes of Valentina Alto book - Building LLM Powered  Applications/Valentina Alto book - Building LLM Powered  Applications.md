@@ -1,5 +1,6 @@
 # Definitions
 **AANs = artificial neural networks**: computational models inspired by the structure and functioning of the human brain.
+
 **AI orchestrator**: is lightweight libraries that make it easier to embed and orchestrate LLMs within applications.
 **ARC = AI2 Reasoning Challenge**: benchmark is used to measure LLMs’ reasoning capabilities and to stimulate the development of models that can perform complex NLU tasks.
 **Attention mechanisms**: is a mechanism that enables the model to focus on relevant parts of the input sequence while generating the output.
